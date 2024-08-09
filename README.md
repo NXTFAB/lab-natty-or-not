@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+![Default_A_stunning_4k_brown_French_bulldog_puppy_perched_atop_0](https://github.com/user-attachments/assets/05689af2-c58a-4a35-9824-e2f00bc6ea9c)# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
 
@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto - Geração de Imagem com Leonardo AI
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Teste de Geração de Imagem para avaliar qualidade da ferramenta.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Teste de diversos prompts para conseguir gerar imagem de alta qualidade, e que faça humano questionar se a mesma é real ou não.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+![Default_A_stunning_4k_brown_French_bulldog_puppy_perched_atop_0](https://github.com/user-attachments/assets/126ab32c-bc54-45e1-ba07-9752ec3d83fc)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A experiência foi boa, pois necessitei fazer poucos ajustes no prompt. Contei com ajuda da IA para a geração do prompt e refino do mesmo. Entendo que qualidade final ficou excelente.
 ```
 
 ### Exemplos e Insigths
